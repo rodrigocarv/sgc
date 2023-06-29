@@ -49,7 +49,7 @@ session_start();
           </div>
 
           <div class="caixa-link">
-            <a href="Cadastro-funcionario.php" class="link-cadastrar">Cadastrar Funcionário</a>
+            <a href="Cadastro-funcionario.php" class="link-cadastrar">Cadastrar Teste</a>
           </div>
         </form>
       </section>
